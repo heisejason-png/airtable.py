@@ -186,4 +186,4 @@ Release
 -------
 
 To release, tag the Git repo with a new version number, push that tag to GitHub then Travis CI will do the rest.
-Created by Jason Scott Heise  https://www.facebook.com
+Created by Jason Scott Heise  https://www.behance.net
